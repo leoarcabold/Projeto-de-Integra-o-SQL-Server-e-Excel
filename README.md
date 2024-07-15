@@ -16,11 +16,14 @@ Total de vendas online por sexo do cliente
 
 As tabelas do banco de dados AdventureWorks utilizadas neste projeto são:
 FactInternetSales: Contém informações sobre as vendas online, como número do pedido, data, quantidade vendida, custo e receita.
-**DimCustomer**: Contém informações sobre os clientes, como nome, sobrenome e sexo.
-**DimSalesTerritory**: Contém informações sobre os territórios de vendas, como país.
-**DimProductCategory**: Contém informações sobre as categorias de produtos, como nome.
-**DimProductSubcategory**: Contém informações sobre as subcategorias de produtos.
-**DimProduct**: Contém informações sobre os produtos.
+* **DimCustomer**: Contém informações sobre os clientes, como nome, sobrenome e sexo.
+* **DimSalesTerritory**: Contém informações sobre os territórios de vendas, como país.
+* **DimProductCategory**: Contém informações sobre as categorias de produtos, como nome.
+* **DimProductSubcategory**: Contém informações sobre as subcategorias de produtos.
+* **DimProduct**: Contém informações sobre os produtos.
+
+### Download Bancos de dados de exemplo do AdventureWorks
+>[AdventureWorks](https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 
 ## Colunas da View VENDAS
 
